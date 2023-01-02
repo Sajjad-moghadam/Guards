@@ -1,0 +1,2 @@
+scorchedbasin_16_256
+WCF	 0.2629248

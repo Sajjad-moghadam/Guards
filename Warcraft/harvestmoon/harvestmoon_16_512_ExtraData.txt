@@ -1,0 +1,2 @@
+harvestmoon_16_512
+WCF	 0.3658525
