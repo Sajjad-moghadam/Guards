@@ -1,0 +1,2 @@
+CatwalkAlley_16_512
+WCF	 0.2684226

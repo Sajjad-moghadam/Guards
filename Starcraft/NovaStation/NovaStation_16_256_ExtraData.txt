@@ -1,0 +1,2 @@
+NovaStation_16_256
+WCF	 0.2058763

@@ -1,0 +1,2 @@
+WaypointJunction_16_1024
+WCF	 0.3965823

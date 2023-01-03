@@ -1,0 +1,2 @@
+BigGameHunters_16_256
+WCF	 0.1807843

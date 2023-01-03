@@ -1,0 +1,2 @@
+BlastFurnace_24_512
+WCF	 0.2150184
