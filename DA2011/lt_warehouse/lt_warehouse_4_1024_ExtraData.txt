@@ -1,0 +1,2 @@
+lt_warehouse_4_1024
+WCF	 0.3177867

@@ -1,0 +1,2 @@
+ht_bartrand_n_4_64
+WCF	 0.09865121

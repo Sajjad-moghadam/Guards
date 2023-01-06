@@ -1,0 +1,2 @@
+w_encounter2_camp_16_256
+WCF	 0.5304642

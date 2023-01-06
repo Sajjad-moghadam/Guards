@@ -1,0 +1,2 @@
+ca_caverns1_mines_10_512
+WCF	 0.08405232

@@ -1,0 +1,2 @@
+ca_cavern1_haunted_10_128
+WCF	 0.06205413
