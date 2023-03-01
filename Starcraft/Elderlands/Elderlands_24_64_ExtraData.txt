@@ -1,2 +1,2 @@
-Elderlands_24_64
-WCF	 0.07361054
+Elderlands_24_64.map
+WCF 0.08864455

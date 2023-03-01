@@ -1,2 +1,2 @@
-stromguarde_16_1024
-WCF	 0.3963383
+stromguarde_16_1024.map
+WCF 0.40714952

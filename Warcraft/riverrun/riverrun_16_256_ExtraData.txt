@@ -1,2 +1,2 @@
-riverrun_16_256
-WCF	 0.3109789
+riverrun_16_256.map
+WCF 0.3196238

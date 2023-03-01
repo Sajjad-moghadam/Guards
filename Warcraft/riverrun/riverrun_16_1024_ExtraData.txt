@@ -1,2 +1,2 @@
-riverrun_16_1024
-WCF	 0.5163327
+riverrun_16_1024.map
+WCF 0.5246978

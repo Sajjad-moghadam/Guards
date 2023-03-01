@@ -1,2 +1,2 @@
-gardenofwar_16_512
-WCF	 0.3628252
+gardenofwar_16_512.map
+WCF 0.3655019

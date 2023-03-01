@@ -1,2 +1,2 @@
-Typhoon_16_256
-WCF	 0.08260245
+Typhoon_16_256.map
+WCF 0.1678033

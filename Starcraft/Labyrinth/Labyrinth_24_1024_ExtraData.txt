@@ -1,2 +1,2 @@
-Labyrinth_24_1024
-WCF	 0.1607739
+Labyrinth_24_1024.map
+WCF 0.24611793

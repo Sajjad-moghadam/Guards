@@ -1,2 +1,2 @@
-lt_gallowsprison_n_4_64
-WCF	 0.05809421
+lt_gallowsprison_n_4_64.map
+WCF 0.54148227

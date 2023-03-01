@@ -1,2 +1,2 @@
-WaypointJunction_16_512
-WCF	 0.2687522
+WaypointJunction_16_512.map
+WCF 0.2896413

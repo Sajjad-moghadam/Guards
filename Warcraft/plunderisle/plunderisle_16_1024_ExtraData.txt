@@ -1,2 +1,2 @@
-plunderisle_16_1024
-WCF	 0.4465508
+plunderisle_16_1024.map
+WCF 0.45000306

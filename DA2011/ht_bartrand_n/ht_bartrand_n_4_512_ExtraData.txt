@@ -1,2 +1,2 @@
-ht_bartrand_n_4_512
-WCF	 0.1762511
+ht_bartrand_n_4_512.map
+WCF 0.8102409

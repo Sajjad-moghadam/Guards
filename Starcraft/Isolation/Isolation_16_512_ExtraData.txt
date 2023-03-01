@@ -1,2 +1,2 @@
-Isolation_16_512
-WCF	 0.2460423
+Isolation_16_512.map
+WCF 0.2569565

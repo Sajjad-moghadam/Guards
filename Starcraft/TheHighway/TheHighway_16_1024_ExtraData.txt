@@ -1,2 +1,2 @@
-TheHighway_16_1024
-WCF	 0.1869185
+TheHighway_16_1024.map
+WCF 0.315033

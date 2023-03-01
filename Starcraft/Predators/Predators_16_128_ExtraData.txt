@@ -1,2 +1,2 @@
-Predators_16_128
-WCF	 0.1427291
+Predators_16_128.map
+WCF 0.16268888

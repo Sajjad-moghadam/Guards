@@ -1,2 +1,2 @@
-GladiatorPits_16_64
-WCF	 0.0530961
+GladiatorPits_16_64.map
+WCF 0.1043293

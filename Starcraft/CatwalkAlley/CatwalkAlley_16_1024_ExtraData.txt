@@ -1,2 +1,2 @@
-CatwalkAlley_16_1024
-WCF	 0.3865822
+CatwalkAlley_16_1024.map
+WCF 0.40765265

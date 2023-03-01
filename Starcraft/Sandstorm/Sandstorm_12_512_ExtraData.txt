@@ -1,2 +1,2 @@
-Sandstorm_12_512
-WCF	 0.1749837
+Sandstorm_12_512.map
+WCF 0.271115

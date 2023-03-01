@@ -1,2 +1,2 @@
-plainsofsnow_16_128
-WCF	 0.141286
+plainsofsnow_16_128.map
+WCF 0.14714947

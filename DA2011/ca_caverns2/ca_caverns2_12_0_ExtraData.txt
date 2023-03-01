@@ -1,2 +1,2 @@
-ca_caverns2_12_0
-WCF	 0.1102554
+ca_caverns2_12_0.map
+WCF 0.39805472

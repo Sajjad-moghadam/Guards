@@ -1,2 +1,2 @@
-ht_mansion_n_4_64
-WCF	 0.1028174
+ht_mansion_n_4_64.map
+WCF 0.47330534

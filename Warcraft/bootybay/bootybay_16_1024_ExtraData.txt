@@ -1,2 +1,2 @@
-bootybay_16_1024
-WCF	 0.4756939
+bootybay_16_1024.map
+WCF 0.4892188

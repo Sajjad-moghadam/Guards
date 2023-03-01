@@ -1,2 +1,2 @@
-divideandconquer_16_512
-WCF	 0.3370854
+divideandconquer_16_512.map
+WCF 0.3440051

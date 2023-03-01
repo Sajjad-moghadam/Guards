@@ -1,2 +1,2 @@
-PrimevalIsles_32_64
-WCF	 0.1105685
+PrimevalIsles_32_64.map
+WCF 0.1220404

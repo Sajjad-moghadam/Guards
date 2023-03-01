@@ -1,2 +1,2 @@
-gardenofwar_16_256
-WCF	 0.2678523
+gardenofwar_16_256.map
+WCF 0.27086592

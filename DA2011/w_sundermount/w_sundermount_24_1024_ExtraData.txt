@@ -1,2 +1,2 @@
-w_sundermount_24_1024
-WCF	 0.725751
+w_sundermount_24_1024.map
+WCF 0.68827564

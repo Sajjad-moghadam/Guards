@@ -1,2 +1,2 @@
-Eruption_16_512
-WCF	 0.2997868
+Eruption_16_512.map
+WCF 0.32603773

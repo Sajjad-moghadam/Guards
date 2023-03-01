@@ -1,2 +1,2 @@
-lt_hangedman_4_512
-WCF	 0.7787353
+lt_hangedman_4_512.map
+WCF 0.90843534

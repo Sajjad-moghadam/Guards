@@ -1,2 +1,2 @@
-Rosewood_16_256
-WCF	 0.1919007
+Rosewood_16_256.map
+WCF 0.21816227

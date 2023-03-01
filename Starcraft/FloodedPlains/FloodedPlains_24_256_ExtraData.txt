@@ -1,2 +1,2 @@
-FloodedPlains_24_256
-WCF	 0.1558258
+FloodedPlains_24_256.map
+WCF 0.17457364

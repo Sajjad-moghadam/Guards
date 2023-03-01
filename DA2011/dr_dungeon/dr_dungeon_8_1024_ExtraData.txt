@@ -1,2 +1,2 @@
-dr_dungeon_8_1024
-WCF	 0.4596308
+dr_dungeon_8_1024.map
+WCF 0.8604873

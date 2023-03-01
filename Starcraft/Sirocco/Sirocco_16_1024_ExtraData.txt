@@ -1,2 +1,2 @@
-Sirocco_16_1024
-WCF	 0.1950558
+Sirocco_16_1024.map
+WCF 0.332791

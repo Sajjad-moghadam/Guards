@@ -1,2 +1,2 @@
-icecrown_16_256
-WCF	 0.2570321
+icecrown_16_256.map
+WCF 0.26186338

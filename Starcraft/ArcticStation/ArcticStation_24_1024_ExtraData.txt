@@ -1,2 +1,2 @@
-ArcticStation_24_1024
-WCF	 0.2883696
+ArcticStation_24_1024.map
+WCF 0.3082629

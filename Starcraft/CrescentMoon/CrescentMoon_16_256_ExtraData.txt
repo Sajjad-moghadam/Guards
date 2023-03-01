@@ -1,2 +1,2 @@
-CrescentMoon_16_256
-WCF	 0.1793498
+CrescentMoon_16_256.map
+WCF 0.19646816

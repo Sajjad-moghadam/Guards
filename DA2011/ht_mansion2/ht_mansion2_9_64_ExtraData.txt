@@ -1,2 +1,2 @@
-ht_mansion2_9_64
-WCF	 0.25589
+ht_mansion2_9_64.map
+WCF 0.49941963

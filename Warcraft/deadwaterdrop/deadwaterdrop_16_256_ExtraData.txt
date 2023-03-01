@@ -1,2 +1,2 @@
-deadwaterdrop_16_256
-WCF	 0.2704723
+deadwaterdrop_16_256.map
+WCF 0.28030005

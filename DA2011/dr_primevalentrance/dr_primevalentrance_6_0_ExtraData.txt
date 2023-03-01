@@ -1,2 +1,2 @@
-dr_primevalentrance_6_0
-WCF	 0.05654849
+dr_primevalentrance_6_0.map
+WCF 0.2810848

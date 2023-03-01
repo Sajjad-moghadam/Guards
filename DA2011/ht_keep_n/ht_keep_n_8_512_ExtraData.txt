@@ -1,2 +1,2 @@
-ht_keep_n_8_512
-WCF	 0.2752438
+ht_keep_n_8_512.map
+WCF 0.74455273

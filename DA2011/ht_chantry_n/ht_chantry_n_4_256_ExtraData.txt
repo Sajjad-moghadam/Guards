@@ -1,2 +1,2 @@
-ht_chantry_n_4_256
-WCF	 0.4925362
+ht_chantry_n_4_256.map
+WCF 0.6972855

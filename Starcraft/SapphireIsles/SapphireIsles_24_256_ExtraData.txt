@@ -1,2 +1,2 @@
-SapphireIsles_24_256
-WCF	 0.1333356
+SapphireIsles_24_256.map
+WCF 0.1423731

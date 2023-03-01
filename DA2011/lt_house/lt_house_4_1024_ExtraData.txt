@@ -1,2 +1,2 @@
-lt_house_4_1024
-WCF	 0.4960707
+lt_house_4_1024.map
+WCF 0.56008214

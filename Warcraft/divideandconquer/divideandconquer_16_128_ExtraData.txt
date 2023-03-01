@@ -1,2 +1,2 @@
-divideandconquer_16_128
-WCF	 0.2021233
+divideandconquer_16_128.map
+WCF 0.20935526

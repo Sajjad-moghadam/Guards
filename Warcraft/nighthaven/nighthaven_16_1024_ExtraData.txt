@@ -1,2 +1,2 @@
-nighthaven_16_1024
-WCF	 0.5181912
+nighthaven_16_1024.map
+WCF 0.5222258

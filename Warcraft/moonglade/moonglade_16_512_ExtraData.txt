@@ -1,2 +1,2 @@
-moonglade_16_512
-WCF	 0.3246005
+moonglade_16_512.map
+WCF 0.32687095

@@ -1,2 +1,2 @@
-Sanctuary_16_128
-WCF	 0.1282496
+Sanctuary_16_128.map
+WCF 0.14985938

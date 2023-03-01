@@ -1,2 +1,2 @@
-thecrucible_16_256
-WCF	 0.2522479
+thecrucible_16_256.map
+WCF 0.2606478

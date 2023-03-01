@@ -1,2 +1,2 @@
-ca_caverns2prc_12_1024
-WCF	 0.2484541
+ca_caverns2prc_12_1024.map
+WCF 0.84569967

@@ -1,2 +1,2 @@
-DarkContinent_16_1024
-WCF	 0.1918542
+DarkContinent_16_1024.map
+WCF 0.3304769

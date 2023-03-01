@@ -1,2 +1,2 @@
-ValleyofRe_24_1024
-WCF	 0.2419052
+ValleyofRe_24_1024.map
+WCF 0.25782093

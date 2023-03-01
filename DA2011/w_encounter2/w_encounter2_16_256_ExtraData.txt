@@ -1,2 +1,2 @@
-w_encounter2_16_256
-WCF	 0.4813393
+w_encounter2_16_256.map
+WCF 0.5078122

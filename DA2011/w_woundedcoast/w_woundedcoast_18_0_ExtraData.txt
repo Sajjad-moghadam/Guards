@@ -1,2 +1,2 @@
-w_woundedcoast_18_0
-WCF	 0.08896361
+w_woundedcoast_18_0.map
+WCF 0.23609991

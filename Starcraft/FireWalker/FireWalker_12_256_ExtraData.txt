@@ -1,2 +1,2 @@
-FireWalker_12_256
-WCF	 0.1266185
+FireWalker_12_256.map
+WCF 0.19737379

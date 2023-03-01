@@ -1,2 +1,2 @@
-GreenerPastures_16_256
-WCF	 0.07764452
+GreenerPastures_16_256.map
+WCF 0.13568242

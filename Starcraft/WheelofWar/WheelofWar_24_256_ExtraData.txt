@@ -1,2 +1,2 @@
-WheelofWar_24_256
-WCF	 0.1301535
+WheelofWar_24_256.map
+WCF 0.15096615

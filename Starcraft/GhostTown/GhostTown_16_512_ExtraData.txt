@@ -1,2 +1,2 @@
-GhostTown_16_512
-WCF	 0.1273382
+GhostTown_16_512.map
+WCF 0.21911679

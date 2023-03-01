@@ -1,2 +1,2 @@
-timbermawhold_16_1024
-WCF	 0.4671797
+timbermawhold_16_1024.map
+WCF 0.47148356

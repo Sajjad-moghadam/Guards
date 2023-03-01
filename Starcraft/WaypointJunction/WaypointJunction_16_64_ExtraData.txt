@@ -1,2 +1,2 @@
-WaypointJunction_16_64
-WCF	 0.1009916
+WaypointJunction_16_64.map
+WCF 0.12316079

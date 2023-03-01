@@ -1,2 +1,2 @@
-Ramparts_16_512
-WCF	 0.3214764
+Ramparts_16_512.map
+WCF 0.34789857

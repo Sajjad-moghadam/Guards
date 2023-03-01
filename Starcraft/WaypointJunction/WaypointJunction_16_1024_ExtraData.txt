@@ -1,2 +1,2 @@
-WaypointJunction_16_1024
-WCF	 0.3965823
+WaypointJunction_16_1024.map
+WCF 0.41632366

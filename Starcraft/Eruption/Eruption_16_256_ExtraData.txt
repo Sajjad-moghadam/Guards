@@ -1,2 +1,2 @@
-Eruption_16_256
-WCF	 0.2013961
+Eruption_16_256.map
+WCF 0.22824542

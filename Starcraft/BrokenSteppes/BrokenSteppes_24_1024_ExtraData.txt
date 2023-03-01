@@ -1,2 +1,2 @@
-BrokenSteppes_24_1024
-WCF	 0.3088385
+BrokenSteppes_24_1024.map
+WCF 0.3251807

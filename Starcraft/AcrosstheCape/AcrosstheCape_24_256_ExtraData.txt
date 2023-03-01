@@ -1,2 +1,2 @@
-AcrosstheCape_24_256
-WCF	 0.1330895
+AcrosstheCape_24_256.map
+WCF 0.14934124

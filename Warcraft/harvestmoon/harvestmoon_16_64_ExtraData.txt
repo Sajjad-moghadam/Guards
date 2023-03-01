@@ -1,2 +1,2 @@
-harvestmoon_16_64
-WCF	 0.1782872
+harvestmoon_16_64.map
+WCF 0.18551625

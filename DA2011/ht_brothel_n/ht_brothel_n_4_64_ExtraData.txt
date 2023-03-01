@@ -1,2 +1,2 @@
-ht_brothel_n_4_64
-WCF	 0.09558999
+ht_brothel_n_4_64.map
+WCF 0.5208664

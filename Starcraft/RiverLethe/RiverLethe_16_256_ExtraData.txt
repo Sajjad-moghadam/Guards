@@ -1,2 +1,2 @@
-RiverLethe_16_256
-WCF	 0.08695237
+RiverLethe_16_256.map
+WCF 0.16529477

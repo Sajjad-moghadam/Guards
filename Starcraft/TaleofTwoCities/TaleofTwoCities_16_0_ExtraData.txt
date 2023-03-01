@@ -1,2 +1,2 @@
-TaleofTwoCities_16_0
-WCF	 0.03635082
+TaleofTwoCities_16_0.map
+WCF 0.07412715

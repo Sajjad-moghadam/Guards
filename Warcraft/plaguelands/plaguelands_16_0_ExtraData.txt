@@ -1,2 +1,2 @@
-plaguelands_16_0
-WCF	 0.1532838
+plaguelands_16_0.map
+WCF 0.16912514

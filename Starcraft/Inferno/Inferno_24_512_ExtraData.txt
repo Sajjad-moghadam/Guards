@@ -1,2 +1,2 @@
-Inferno_24_512
-WCF	 0.2540521
+Inferno_24_512.map
+WCF 0.28968516

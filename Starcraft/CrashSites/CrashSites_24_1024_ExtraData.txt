@@ -1,2 +1,2 @@
-CrashSites_24_1024
-WCF	 0.2754748
+CrashSites_24_1024.map
+WCF 0.29494345

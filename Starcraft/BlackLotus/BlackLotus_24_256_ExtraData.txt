@@ -1,2 +1,2 @@
-BlackLotus_24_256
-WCF	 0.1829693
+BlackLotus_24_256.map
+WCF 0.20648152

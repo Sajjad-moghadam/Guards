@@ -1,2 +1,2 @@
-w_encounter3_12_128
-WCF	 0.02437339
+w_encounter3_12_128.map
+WCF 0.631801

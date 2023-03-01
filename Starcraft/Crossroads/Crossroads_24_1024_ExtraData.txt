@@ -1,2 +1,2 @@
-Crossroads_24_1024
-WCF	 0.298789
+Crossroads_24_1024.map
+WCF 0.3125593

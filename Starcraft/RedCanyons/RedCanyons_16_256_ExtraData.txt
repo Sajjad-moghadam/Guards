@@ -1,2 +1,2 @@
-RedCanyons_16_256
-WCF	 0.1633244
+RedCanyons_16_256.map
+WCF 0.18074127

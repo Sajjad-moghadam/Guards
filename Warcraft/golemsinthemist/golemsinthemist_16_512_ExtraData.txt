@@ -1,2 +1,2 @@
-golemsinthemist_16_512
-WCF	 0.3324947
+golemsinthemist_16_512.map
+WCF 0.34556064

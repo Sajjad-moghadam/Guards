@@ -1,2 +1,2 @@
-gnollwood_16_512
-WCF	 0.3671726
+gnollwood_16_512.map
+WCF 0.37416425

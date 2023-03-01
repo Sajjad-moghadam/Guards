@@ -1,2 +1,2 @@
-RiverLethe_16_0
-WCF	 0.04086577
+RiverLethe_16_0.map
+WCF 0.087500356

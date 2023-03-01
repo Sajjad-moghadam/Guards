@@ -1,2 +1,2 @@
-lt_ruinedhouse_n_4_512
-WCF	 0.1244844
+lt_ruinedhouse_n_4_512.map
+WCF 0.9287452

@@ -1,2 +1,2 @@
-BigGameHunters_16_1024
-WCF	 0.4272332
+BigGameHunters_16_1024.map
+WCF 0.43739462

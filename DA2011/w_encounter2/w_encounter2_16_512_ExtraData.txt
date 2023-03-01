@@ -1,2 +1,2 @@
-w_encounter2_16_512
-WCF	 0.6113828
+w_encounter2_16_512.map
+WCF 0.6350129

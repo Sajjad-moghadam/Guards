@@ -1,2 +1,2 @@
-Entanglement_16_256
-WCF	 0.1907645
+Entanglement_16_256.map
+WCF 0.22028548

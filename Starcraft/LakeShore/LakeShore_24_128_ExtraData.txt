@@ -1,2 +1,2 @@
-LakeShore_24_128
-WCF	 0.1014431
+LakeShore_24_128.map
+WCF 0.11926612

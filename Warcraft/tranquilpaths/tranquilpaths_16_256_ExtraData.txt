@@ -1,2 +1,2 @@
-tranquilpaths_16_256
-WCF	 0.2547132
+tranquilpaths_16_256.map
+WCF 0.26462775

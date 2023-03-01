@@ -1,2 +1,2 @@
-battleground_16_512
-WCF	 0.368615
+battleground_16_512.map
+WCF 0.3740821

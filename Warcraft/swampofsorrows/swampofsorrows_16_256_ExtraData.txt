@@ -1,2 +1,2 @@
-swampofsorrows_16_256
-WCF	 0.2867672
+swampofsorrows_16_256.map
+WCF 0.3006741

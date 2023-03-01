@@ -1,2 +1,2 @@
-lt_0_lowtown_a3_n_c_16_64
-WCF	 0.3314802
+lt_0_lowtown_a3_n_c_16_64.map
+WCF 0.36451244

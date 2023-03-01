@@ -1,2 +1,2 @@
-bootybay_16_512
-WCF	 0.3865849
+bootybay_16_512.map
+WCF 0.40033978

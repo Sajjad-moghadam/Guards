@@ -1,2 +1,2 @@
-WatersEdge_16_256
-WCF	 0.2060794
+WatersEdge_16_256.map
+WCF 0.22094844

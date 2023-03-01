@@ -1,2 +1,2 @@
-Eruption_16_1024
-WCF	 0.4085104
+Eruption_16_1024.map
+WCF 0.43359903

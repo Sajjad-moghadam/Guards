@@ -1,2 +1,2 @@
-EbonLakes_16_1024
-WCF	 0.4447351
+EbonLakes_16_1024.map
+WCF 0.46069726

@@ -1,2 +1,2 @@
-losttemple_16_512
-WCF	 0.3401439
+losttemple_16_512.map
+WCF 0.3515887

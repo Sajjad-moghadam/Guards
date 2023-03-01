@@ -1,2 +1,2 @@
-lt_gamlenshouse_n_4_64
-WCF	 0.1183259
+lt_gamlenshouse_n_4_64.map
+WCF 0.8330244

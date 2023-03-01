@@ -1,2 +1,2 @@
-w_blightlands_16_64
-WCF	 0.3880647
+w_blightlands_16_64.map
+WCF 0.44121432

@@ -1,2 +1,2 @@
-SpaceAtoll_16_1024
-WCF	 0.40861
+SpaceAtoll_16_1024.map
+WCF 0.42880923

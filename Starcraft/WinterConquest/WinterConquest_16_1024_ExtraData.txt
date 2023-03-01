@@ -1,2 +1,2 @@
-WinterConquest_16_1024
-WCF	 0.3938155
+WinterConquest_16_1024.map
+WCF 0.41523886

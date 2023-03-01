@@ -1,2 +1,2 @@
-GhostTown_16_256
-WCF	 0.08466876
+GhostTown_16_256.map
+WCF 0.15161687

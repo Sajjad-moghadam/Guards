@@ -1,2 +1,2 @@
-SpringThaw_16_1024
-WCF	 0.1130693
+SpringThaw_16_1024.map
+WCF 0.2745109

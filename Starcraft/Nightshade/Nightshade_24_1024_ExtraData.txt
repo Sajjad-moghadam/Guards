@@ -1,2 +1,2 @@
-Nightshade_24_1024
-WCF	 0.1695902
+Nightshade_24_1024.map
+WCF 0.2651323

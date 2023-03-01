@@ -1,2 +1,2 @@
-Caldera_16_256
-WCF	 0.1519519
+Caldera_16_256.map
+WCF 0.16819255

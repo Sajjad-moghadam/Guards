@@ -1,2 +1,2 @@
-dr_dungeon_8_256
-WCF	 0.320027
+dr_dungeon_8_256.map
+WCF 0.6093102

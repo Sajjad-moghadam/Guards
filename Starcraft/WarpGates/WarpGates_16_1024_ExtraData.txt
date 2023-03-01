@@ -1,2 +1,2 @@
-WarpGates_16_1024
-WCF	 0.4057201
+WarpGates_16_1024.map
+WCF 0.42458123

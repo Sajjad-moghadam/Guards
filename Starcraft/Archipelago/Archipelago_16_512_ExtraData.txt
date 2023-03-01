@@ -1,2 +1,2 @@
-Archipelago_16_512
-WCF	 0.2338603
+Archipelago_16_512.map
+WCF 0.2407354

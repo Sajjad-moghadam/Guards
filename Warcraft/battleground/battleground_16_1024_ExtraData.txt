@@ -1,2 +1,2 @@
-battleground_16_1024
-WCF	 0.4927616
+battleground_16_1024.map
+WCF 0.4979037

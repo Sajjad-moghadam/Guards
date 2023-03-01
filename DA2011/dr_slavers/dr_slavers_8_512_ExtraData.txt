@@ -1,2 +1,2 @@
-dr_slavers_8_512
-WCF	 0.3616898
+dr_slavers_8_512.map
+WCF 0.68695354

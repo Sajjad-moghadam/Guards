@@ -1,2 +1,2 @@
-lt_gallowstemplar_5_512
-WCF	 0.2998196
+lt_gallowstemplar_5_512.map
+WCF 0.76269114

@@ -1,2 +1,2 @@
-isleofdread_16_512
-WCF	 0.3718572
+isleofdread_16_512.map
+WCF 0.37636653

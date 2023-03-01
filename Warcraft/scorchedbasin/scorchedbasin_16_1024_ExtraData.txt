@@ -1,2 +1,2 @@
-scorchedbasin_16_1024
-WCF	 0.5104831
+scorchedbasin_16_1024.map
+WCF 0.5146966

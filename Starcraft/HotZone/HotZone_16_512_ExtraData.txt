@@ -1,2 +1,2 @@
-HotZone_16_512
-WCF	 0.2549967
+HotZone_16_512.map
+WCF 0.2688925

@@ -1,2 +1,2 @@
-blastedlands_16_512
-WCF	 0.3711137
+blastedlands_16_512.map
+WCF 0.37961596

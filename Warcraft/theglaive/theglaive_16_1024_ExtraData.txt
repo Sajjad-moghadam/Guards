@@ -1,2 +1,2 @@
-theglaive_16_1024
-WCF	 0.5159891
+theglaive_16_1024.map
+WCF 0.5256448

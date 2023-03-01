@@ -1,2 +1,2 @@
-ht_mansion2b_9_256
-WCF	 0.3359155
+ht_mansion2b_9_256.map
+WCF 0.61922187

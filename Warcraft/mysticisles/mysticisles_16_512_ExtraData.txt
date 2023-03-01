@@ -1,2 +1,2 @@
-mysticisles_16_512
-WCF	 0.3311762
+mysticisles_16_512.map
+WCF 0.34421197

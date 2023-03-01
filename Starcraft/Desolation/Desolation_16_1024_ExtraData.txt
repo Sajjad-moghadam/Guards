@@ -1,2 +1,2 @@
-Desolation_16_1024
-WCF	 0.3840569
+Desolation_16_1024.map
+WCF 0.39963967

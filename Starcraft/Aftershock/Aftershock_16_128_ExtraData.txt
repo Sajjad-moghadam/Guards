@@ -1,2 +1,2 @@
-Aftershock_16_128
-WCF	 0.1280223
+Aftershock_16_128.map
+WCF 0.14952129

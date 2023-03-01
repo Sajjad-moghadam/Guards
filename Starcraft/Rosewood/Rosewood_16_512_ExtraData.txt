@@ -1,2 +1,2 @@
-Rosewood_16_512
-WCF	 0.2802727
+Rosewood_16_512.map
+WCF 0.30593622

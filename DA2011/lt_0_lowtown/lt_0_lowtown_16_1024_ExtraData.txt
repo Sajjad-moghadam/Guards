@@ -1,2 +1,2 @@
-lt_0_lowtown_16_1024
-WCF	 0.7901525
+lt_0_lowtown_16_1024.map
+WCF 0.8036886

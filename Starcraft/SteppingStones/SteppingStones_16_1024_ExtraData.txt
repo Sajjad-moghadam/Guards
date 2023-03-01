@@ -1,2 +1,2 @@
-SteppingStones_16_1024
-WCF	 0.351213
+SteppingStones_16_1024.map
+WCF 0.35523695

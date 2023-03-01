@@ -1,2 +1,2 @@
-battleground_16_256
-WCF	 0.2635942
+battleground_16_256.map
+WCF 0.2693246

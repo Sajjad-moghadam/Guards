@@ -1,2 +1,2 @@
-lt_shop_4_64
-WCF	 0.100874
+lt_shop_4_64.map
+WCF 0.85779655

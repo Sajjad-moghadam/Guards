@@ -1,2 +1,2 @@
-OrbitalGully_16_0
-WCF	 0.06553476
+OrbitalGully_16_0.map
+WCF 0.08559258

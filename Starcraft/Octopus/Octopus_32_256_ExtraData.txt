@@ -1,2 +1,2 @@
-Octopus_32_256
-WCF	 0.1160451
+Octopus_32_256.map
+WCF 0.13889857

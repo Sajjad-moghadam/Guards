@@ -1,2 +1,2 @@
-BlastFurnace_24_64
-WCF	 0.08580919
+BlastFurnace_24_64.map
+WCF 0.10609607

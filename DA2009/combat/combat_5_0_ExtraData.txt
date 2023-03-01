@@ -1,2 +1,2 @@
-combat_5_0
-WCF	 0.02667005
+combat_5_0.map
+WCF 0.0284813

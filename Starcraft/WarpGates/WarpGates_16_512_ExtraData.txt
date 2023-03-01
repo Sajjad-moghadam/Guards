@@ -1,2 +1,2 @@
-WarpGates_16_512
-WCF	 0.2760577
+WarpGates_16_512.map
+WCF 0.29614002

@@ -1,2 +1,2 @@
-Aftershock_16_512
-WCF	 0.2693111
+Aftershock_16_512.map
+WCF 0.2897881

@@ -1,2 +1,2 @@
-Triskelion_16_512
-WCF	 0.2727076
+Triskelion_16_512.map
+WCF 0.2937869

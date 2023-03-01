@@ -1,2 +1,2 @@
-Isolation_16_1024
-WCF	 0.3814616
+Isolation_16_1024.map
+WCF 0.39140972

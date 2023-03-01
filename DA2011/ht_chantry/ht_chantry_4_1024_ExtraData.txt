@@ -1,2 +1,2 @@
-ht_chantry_4_1024
-WCF	 0.654919
+ht_chantry_4_1024.map
+WCF 0.91368806

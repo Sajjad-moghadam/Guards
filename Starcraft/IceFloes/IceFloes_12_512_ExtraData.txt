@@ -1,2 +1,2 @@
-IceFloes_12_512
-WCF	 0.371805
+IceFloes_12_512.map
+WCF 0.40510026

@@ -1,2 +1,2 @@
-hillsofglory_16_512
-WCF	 0.3282726
+hillsofglory_16_512.map
+WCF 0.33343977

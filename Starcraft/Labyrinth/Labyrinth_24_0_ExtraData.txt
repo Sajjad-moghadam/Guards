@@ -1,2 +1,2 @@
-Labyrinth_24_0
-WCF	 0.04848174
+Labyrinth_24_0.map
+WCF 0.088846914

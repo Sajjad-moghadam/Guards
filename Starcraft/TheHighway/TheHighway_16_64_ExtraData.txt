@@ -1,2 +1,2 @@
-TheHighway_16_64
-WCF	 0.05003531
+TheHighway_16_64.map
+WCF 0.09686893

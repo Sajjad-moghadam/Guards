@@ -1,2 +1,2 @@
-ht_store_4_1024
-WCF	 0.3613741
+ht_store_4_1024.map
+WCF 0.40963042

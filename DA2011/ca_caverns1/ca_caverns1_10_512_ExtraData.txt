@@ -1,2 +1,2 @@
-ca_caverns1_10_512
-WCF	 0.0853874
+ca_caverns1_10_512.map
+WCF 0.73897845

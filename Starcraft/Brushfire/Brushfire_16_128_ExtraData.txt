@@ -1,2 +1,2 @@
-Brushfire_16_128
-WCF	 0.1393448
+Brushfire_16_128.map
+WCF 0.16115241

@@ -1,2 +1,2 @@
-petrifiedforest_16_512
-WCF	 0.3694595
+petrifiedforest_16_512.map
+WCF 0.3747212

@@ -1,2 +1,2 @@
-drywatergulch_16_0
-WCF	 0.1333411
+drywatergulch_16_0.map
+WCF 0.14242856

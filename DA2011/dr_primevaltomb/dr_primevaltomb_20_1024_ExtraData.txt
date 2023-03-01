@@ -1,2 +1,2 @@
-dr_primevaltomb_20_1024
-WCF	 0.2438916
+dr_primevaltomb_20_1024.map
+WCF 0.7034491

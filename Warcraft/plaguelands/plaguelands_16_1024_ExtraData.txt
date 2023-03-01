@@ -1,2 +1,2 @@
-plaguelands_16_1024
-WCF	 0.4692045
+plaguelands_16_1024.map
+WCF 0.48353466

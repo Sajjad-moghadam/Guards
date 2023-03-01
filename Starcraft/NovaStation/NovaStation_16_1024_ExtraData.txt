@@ -1,2 +1,2 @@
-NovaStation_16_1024
-WCF	 0.4016582
+NovaStation_16_1024.map
+WCF 0.4276741

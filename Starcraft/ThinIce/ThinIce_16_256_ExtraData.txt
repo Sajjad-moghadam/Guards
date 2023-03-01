@@ -1,2 +1,2 @@
-ThinIce_16_256
-WCF	 0.1087387
+ThinIce_16_256.map
+WCF 0.20859963

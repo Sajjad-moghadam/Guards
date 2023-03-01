@@ -1,2 +1,2 @@
-w_bonepit_14_64
-WCF	 0.1223809
+w_bonepit_14_64.map
+WCF 0.37067965

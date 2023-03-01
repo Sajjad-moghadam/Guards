@@ -1,2 +1,2 @@
-Hellfire_24_256
-WCF	 0.1340507
+Hellfire_24_256.map
+WCF 0.15464751

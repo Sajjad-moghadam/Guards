@@ -1,2 +1,2 @@
-TheatreofWar_24_128
-WCF	 0.0831359
+TheatreofWar_24_128.map
+WCF 0.09913747

@@ -1,2 +1,2 @@
-darkforest_16_1024
-WCF	 0.4824886
+darkforest_16_1024.map
+WCF 0.48892197
