@@ -1,0 +1,2 @@
+hillsofglory_16_2048.map
+WCF 0.6363902

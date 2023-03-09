@@ -1,0 +1,2 @@
+Predators_16_2048.map
+WCF 0.6607164

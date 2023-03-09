@@ -1,0 +1,2 @@
+Sanctuary_16_2048.map
+WCF 0.57304364

@@ -1,0 +1,2 @@
+plainsofsnow_16_2048.map
+WCF 0.5927535

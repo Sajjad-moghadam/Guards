@@ -1,0 +1,2 @@
+ht_chantry_n_4_2048.map
+WCF 0.9345735

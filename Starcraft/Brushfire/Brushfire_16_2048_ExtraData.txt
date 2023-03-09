@@ -1,0 +1,2 @@
+Brushfire_16_2048.map
+WCF 0.61774516

@@ -1,0 +1,2 @@
+GladiatorPits_16_2048.map
+WCF 0.47276846

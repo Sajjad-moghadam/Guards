@@ -1,0 +1,2 @@
+CatwalkAlley_16_2048.map
+WCF 0.55454737

@@ -1,0 +1,2 @@
+WaypointJunction_16_2048.map
+WCF 0.5624363

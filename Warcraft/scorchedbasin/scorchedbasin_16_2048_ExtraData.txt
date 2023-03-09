@@ -1,0 +1,2 @@
+scorchedbasin_16_2048.map
+WCF 0.68657154

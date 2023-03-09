@@ -1,0 +1,2 @@
+WatersEdge_16_2048.map
+WCF 0.6238901

@@ -1,0 +1,2 @@
+w_blightlands_16_2048.map
+WCF 0.763769

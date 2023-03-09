@@ -1,0 +1,2 @@
+Expedition_32_2048.map
+WCF 0.36218947

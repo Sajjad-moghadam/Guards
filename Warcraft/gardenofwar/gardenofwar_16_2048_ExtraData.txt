@@ -1,0 +1,2 @@
+gardenofwar_16_2048.map
+WCF 0.659231

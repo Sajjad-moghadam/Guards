@@ -1,0 +1,2 @@
+harvestmoon_16_2048.map
+WCF 0.66092205

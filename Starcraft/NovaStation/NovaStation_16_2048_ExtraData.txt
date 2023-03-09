@@ -1,0 +1,2 @@
+NovaStation_16_2048.map
+WCF 0.62937045

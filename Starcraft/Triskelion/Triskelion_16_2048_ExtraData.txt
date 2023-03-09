@@ -1,0 +1,2 @@
+Triskelion_16_2048.map
+WCF 0.5837771

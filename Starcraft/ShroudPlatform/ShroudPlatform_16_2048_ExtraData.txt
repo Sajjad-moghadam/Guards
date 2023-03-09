@@ -1,0 +1,2 @@
+ShroudPlatform_16_2048.map
+WCF 0.5959435

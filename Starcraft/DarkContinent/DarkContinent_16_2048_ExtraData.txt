@@ -1,0 +1,2 @@
+DarkContinent_16_2048.map
+WCF 0.45321682

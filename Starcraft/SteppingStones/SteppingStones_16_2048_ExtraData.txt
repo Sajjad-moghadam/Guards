@@ -1,0 +1,2 @@
+SteppingStones_16_2048.map
+WCF 0.47796467
