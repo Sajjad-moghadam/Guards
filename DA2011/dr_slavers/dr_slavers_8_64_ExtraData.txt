@@ -1,2 +1,2 @@
 dr_slavers_8_64.map
-WCF 0.407347
+WCF 0.3727051

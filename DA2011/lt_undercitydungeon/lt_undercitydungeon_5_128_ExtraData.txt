@@ -1,2 +1,2 @@
 lt_undercitydungeon_5_128.map
-WCF 0.53007925
+WCF 0.49123105

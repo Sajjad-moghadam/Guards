@@ -1,2 +1,2 @@
 w_encounter2_camp_16_128.map
-WCF 0.39682275
+WCF 0.3682246

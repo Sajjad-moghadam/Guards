@@ -1,2 +1,2 @@
 ht_bartrand_n_4_64.map
-WCF 0.46491918
+WCF 0.42039147

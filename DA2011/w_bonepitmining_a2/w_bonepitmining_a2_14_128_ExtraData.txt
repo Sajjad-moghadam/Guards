@@ -1,2 +1,2 @@
 w_bonepitmining_a2_14_128.map
-WCF 0.4896246
+WCF 0.45167148

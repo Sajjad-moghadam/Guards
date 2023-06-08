@@ -1,2 +1,2 @@
 ht_mansion_n_4_512.map
-WCF 0.79696405
+WCF 0.7522753

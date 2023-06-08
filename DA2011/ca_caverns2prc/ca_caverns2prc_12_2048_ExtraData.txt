@@ -1,2 +1,2 @@
 ca_caverns2prc_12_2048.map
-WCF 0.843675
+WCF 0.80123603

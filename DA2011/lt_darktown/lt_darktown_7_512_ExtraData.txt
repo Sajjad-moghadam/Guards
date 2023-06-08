@@ -1,2 +1,2 @@
 lt_darktown_7_512.map
-WCF 0.7984743
+WCF 0.7546299

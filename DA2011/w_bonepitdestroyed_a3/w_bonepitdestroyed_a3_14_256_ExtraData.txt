@@ -1,2 +1,2 @@
 w_bonepitdestroyed_a3_14_256.map
-WCF 0.44126907
+WCF 0.4164886

@@ -1,2 +1,2 @@
 lt_warehouse_n_4_256.map
-WCF 0.7624841
+WCF 0.71695536

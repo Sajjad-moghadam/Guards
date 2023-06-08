@@ -1,2 +1,2 @@
 ht_chantry_4_0.map
-WCF 0.3829278
+WCF 0.340638

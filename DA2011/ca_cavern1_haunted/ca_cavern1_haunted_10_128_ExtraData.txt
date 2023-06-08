@@ -1,2 +1,2 @@
 ca_cavern1_haunted_10_128.map
-WCF 0.5514086
+WCF 0.49602512

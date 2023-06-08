@@ -1,2 +1,2 @@
 lt_foundry_n_4_256.map
-WCF 0.8070446
+WCF 0.758809

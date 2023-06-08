@@ -1,2 +1,2 @@
 lt_0_lowtown_a2_n_16_256.map
-WCF 0.566962
+WCF 0.5328807

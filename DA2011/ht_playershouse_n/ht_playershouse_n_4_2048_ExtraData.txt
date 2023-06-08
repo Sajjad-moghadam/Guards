@@ -1,2 +1,2 @@
 ht_playershouse_n_4_2048.map
-WCF 0.905083
+WCF 0.86629915

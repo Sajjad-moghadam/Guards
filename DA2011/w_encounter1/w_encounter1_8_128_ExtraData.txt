@@ -1,2 +1,2 @@
 w_encounter1_8_128.map
-WCF 0.66608846
+WCF 0.61742324

@@ -1,2 +1,2 @@
 w_sundermount_24_512.map
-WCF 0.49655965
+WCF 0.46170253

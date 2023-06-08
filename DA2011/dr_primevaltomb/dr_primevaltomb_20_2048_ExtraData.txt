@@ -1,2 +1,2 @@
 dr_primevaltomb_20_2048.map
-WCF 0.70021045
+WCF 0.66650015

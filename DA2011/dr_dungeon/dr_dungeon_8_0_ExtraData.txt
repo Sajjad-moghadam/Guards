@@ -1,2 +1,2 @@
 dr_dungeon_8_0.map
-WCF 0.29861027
+WCF 0.25929877

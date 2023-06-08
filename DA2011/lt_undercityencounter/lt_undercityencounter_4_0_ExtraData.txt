@@ -1,2 +1,2 @@
 lt_undercityencounter_4_0.map
-WCF 0.3373382
+WCF 0.29823434

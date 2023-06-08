@@ -1,2 +1,2 @@
 lt_0_lowtown_docks_a3_n_12_256.map
-WCF 0.5753125
+WCF 0.5437609

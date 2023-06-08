@@ -1,2 +1,2 @@
 lt_gallowstemplar_n_5_256.map
-WCF 0.6469862
+WCF 0.6070268

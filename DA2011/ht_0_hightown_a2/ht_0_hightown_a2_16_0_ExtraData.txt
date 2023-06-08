@@ -1,2 +1,2 @@
 ht_0_hightown_a2_16_0.map
-WCF 0.2528784
+WCF 0.22470742

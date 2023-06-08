@@ -1,2 +1,2 @@
 lt_gallowsprison_n_4_512.map
-WCF 0.9222917
+WCF 0.8864897

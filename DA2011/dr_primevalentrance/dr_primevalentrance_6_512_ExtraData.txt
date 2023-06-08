@@ -1,2 +1,2 @@
 dr_primevalentrance_6_512.map
-WCF 0.8556003
+WCF 0.81495064

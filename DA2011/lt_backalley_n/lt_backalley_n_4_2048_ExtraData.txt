@@ -1,2 +1,2 @@
 lt_backalley_n_4_2048.map
-WCF 0.93284744
+WCF 0.9020367

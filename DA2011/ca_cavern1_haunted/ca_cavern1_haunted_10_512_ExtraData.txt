@@ -1,2 +1,2 @@
 ca_cavern1_haunted_10_512.map
-WCF 0.7274172
+WCF 0.67386943

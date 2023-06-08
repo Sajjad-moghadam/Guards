@@ -1,2 +1,2 @@
 w_woundedcoast_18_1024.map
-WCF 0.74158543
+WCF 0.6963271

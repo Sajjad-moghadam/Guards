@@ -1,2 +1,2 @@
 ca_caverns1_mines_10_128.map
-WCF 0.5656394
+WCF 0.5101904

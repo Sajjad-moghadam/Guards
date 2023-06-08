@@ -1,2 +1,2 @@
 w_sundermount_24_64.map
-WCF 0.29321846
+WCF 0.255194

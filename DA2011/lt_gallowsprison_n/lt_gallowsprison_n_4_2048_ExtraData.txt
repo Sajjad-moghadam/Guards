@@ -1,2 +1,2 @@
 lt_gallowsprison_n_4_2048.map
-WCF 0.92249966
+WCF 0.8897458

@@ -1,2 +1,2 @@
 lt_gallowscourtyard_n_16_0.map
-WCF 0.25592586
+WCF 0.22786123

@@ -1,2 +1,2 @@
 lt_undercityserialkiller_5_1024.map
-WCF 0.90243
+WCF 0.8623398

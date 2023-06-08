@@ -1,2 +1,2 @@
 dr_0_deeproads_17_0.map
-WCF 0.24870242
+WCF 0.21470115
